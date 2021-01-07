@@ -1,5 +1,5 @@
 # Write your code here!
-require 'pry'
+# require 'pry'
 def game_hash
 hash = {
       :home => {:team_name =>"Brooklyn Nets",
@@ -122,5 +122,5 @@ hash = {
                 ]
                 }
 }
-binding.pry
+# binding.pry
 end
